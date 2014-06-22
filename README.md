@@ -6,7 +6,7 @@ Running the script
 1. Download the data set and extract. It should result in a UCI HAR Dataset folder that has all the files in the required structure.
 2. Change current directory to the UCI HAR Dataset folder.
 3. Run Rscript <path to>/run_analysis.R
-4. The tidy dataset should get created in the current directory as tidy.txt
+4. The tidy dataset should get created in the current directory as Tidy_data_set_final.txt
 
 
 Assumptions
